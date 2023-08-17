@@ -2,14 +2,19 @@
 
 
 ## Ways to use the Internet of Things field at the final ceremony
+
+
 *******
   ### Table of Content
    1) Dino Game in Arduino
    2) Robot obstacle avoidance
+
 *******
 
 
   #### 1.1 Dino Game Introduction
+
+  
   The game is represented in Tinkercad simulates a Dino game using Arduino and LCD to become an entertaining way that can be included in Robot
   ![SM23-IoT04](https://github.com/iFatma2/SM23-IoT04/assets/139279448/e5c489cc-8670-4a3b-861f-f8b0c2840d5c)
 
